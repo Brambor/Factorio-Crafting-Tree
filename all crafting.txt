@@ -1,0 +1,156 @@
+Active Provider chest: 
+Advanced circuit: 
+Alien artifact: 
+Alien science pack: 
+Assembling machine 1: 
+Assembling machine 2: 
+Assembling machine 3: 
+Basic accumulator: 
+Basic Beacon: 
+Basic electric discharge defense remote: 
+Basic exoskeleton equipment: 
+Basic grenade: 
+Basic modular armor: 
+Basic splitter: 
+Basic transport belt: 
+Basic underground belt: 
+Battery MK1: 
+Battery MK2: 
+Battery: 
+Big electric pole: 
+Blueprint: 
+Boiler: 
+Burner inserter: 
+Burner Mining Drill: 
+Cannon shells: 
+Car: 
+Cargo wagon: 
+Chemical Plant: 
+Coal: 
+Combat shotgun: 
+Construction robot: 
+Copper cable: 
+Copper ore: 
+Copper plate: 
+Crude Oil: 
+Curved Rail: 
+Deconstruction planner: 
+Defender capsule: 
+Destroyer capsule: 
+Diesel Locomotive: 
+Discharge defense: 
+Distractor capsule: 
+Effectivity module 2: 
+Effectivity module 3: 
+Effectivity module: 
+Electric engine unit: 
+Electric Furnace: 
+Electric Mining Drill: 
+Electronic circuit: 
+Empty barrel: 
+Energy shield MK2: 
+Energy shield: 
+Engine unit: 
+Explosive rocket: 
+Explosives: 
+Express splitter: 
+Express transport belt: 
+Express underground belt: 
+Fast inserter: 
+Fast splitter: 
+Fast transport belt: 
+Fast underground belt: 
+Flamethrower ammo: 
+Flamethrower: 
+Flying robot frame: 
+Green wire: 
+Gun turret: 
+Heavy armor: 
+Heavy Oil: 
+Inserter: 
+Iron armor: 
+Iron axe: 
+Iron chest: 
+Iron gear wheel: 
+Iron ore: 
+Iron plate: 
+Iron stick: 
+Lab: 
+Lamp: 
+Land mine: 
+Laser turret: 
+Light Oil: 
+Logistic robot: 
+Long handed inserter: 
+Lubricant: 
+Medium electric pole: 
+Night vision: 
+Oil Refinery: 
+Passive Provider chest: 
+Personal laser defense: 
+Petroleum Gas: 
+Piercing rounds magazine: 
+Piercing shotgun shells: 
+Pipe-to-ground: 
+Pipe: 
+Pistol: 
+Plastic bar: 
+Poison capsule: 
+Portable fusion reactor: 
+Portable solar panel: 
+Power armor MK2: 
+Power armor: 
+Processing Unit: 
+Productivity module 2: 
+Productivity module 3: 
+Productivity module: 
+Pump: 
+Pumpjack: 
+Radar: 
+Rail signal: 
+Raw fish: 
+Raw-wood: 
+Red-wire: 
+Regular magazine: 
+Requester-chest: 
+Roboport: 
+Rocket defense: 
+Rocket launcher: 
+Rocket: 
+Science pack 1: 
+Science pack 2: 
+Science pack 3: 
+Shotgun shells: 
+Shotgun: 
+Slowdown capsule: 
+Small electric pole: 
+Small Pump: 
+Smart chest: 
+Smart inserter: 
+Solar Panel: 
+Solid fuel: 
+Speed module 2: 
+Speed module 3: 
+Speed module: 
+Steam engine: 
+Steel axe: 
+Steel bar: 
+Steel chest: 
+Steel Furnace: 
+Stone brick: 
+Stone Furnace: 
+Stone: 
+Storage chest: 
+Storage Tank: 
+Straight Rail: 
+Submachine gun: 
+Substation: 
+Sulfur: 
+Sulfuric Acid: 
+tank: 
+Thumbs: 
+Train stop: 
+Wall: 
+Water: 
+Wood: 
+Wooden chest: 
