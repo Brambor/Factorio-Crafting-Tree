@@ -1,0 +1,10 @@
+Solar Panel,360,533
+Copper cable,330,459
+Iron plate,666,486
+Assembling machine 2,337,227
+Electronic circuit,398,433
+Steel bar,452,505
+Copper plate,295,532
+Science pack 1,231,585
+Iron gear wheel,103,666
+Assembling machine 1,403,325
